@@ -13,3 +13,8 @@ Mover el raton para apuntar.
 
 
 URL: https://infinite-city.surge.sh/
+
+
+Screenshot, aviso, spoiler:
+
+<img width="1898" height="887" alt="image" src="https://github.com/user-attachments/assets/41c6f79a-c2da-4360-b09b-c1c69a15bcbe" />
